@@ -74,7 +74,7 @@ const App = () => {
         
            
           <div style={isDesktopOrLaptop ? tekstityyli : mobiilitektstityyli}>
-          Moro! Tervetuloa ensinmäisille omille sivuilleni.
+          Moro! Tervetuloa ensimmäisille omille sivuilleni.
           Olen 22-vuotias yhteisöllinen, analyyttinen ja ahkera
           tietotekniikan opiskelija Tampereelta. Olen erittäin
           oppimiskykyinen ja teknologia-alasta kiinnostunut ihminen. Etsin uusia
